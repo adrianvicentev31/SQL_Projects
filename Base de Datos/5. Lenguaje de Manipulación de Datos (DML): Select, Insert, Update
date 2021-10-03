@@ -1,0 +1,12 @@
+/* Consulta general de las tablas */
+SELECT * FROM Nums
+SELECT * FROM HR.Employees
+SELECT * FROM Production.Categories
+SELECT * FROM Production.Products
+SELECT * FROM Production.Suppliers
+SELECT * FROM Sales.Customers
+SELECT * FROM Sales.OrderDetails
+SELECT * FROM Sales.Orders
+SELECT * FROM Sales.Shippers
+SELECT * FROM Stats.Scores
+SELECT * FROM Stats.Tests
