@@ -51,8 +51,6 @@ Instalación
 11. Conectarse a un cubo desde Managament Studio
 12. Conectarse a un cubo desde Microsoft Excel
 13. Conectarse a un cubo de Microsoft Power Bi
-![imagen](https://user-images.githubusercontent.com/91351079/135736857-b5e313d6-5d45-4d9a-80f4-d582c86ad34e.png)
-
 
 ## Referencias Bibliograficas
 1. **SQL Server 2019***: https://www.microsoft.com/es-es/sql-server/sql-server-2019
